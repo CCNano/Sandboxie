@@ -254,7 +254,6 @@ driver_started:
             // Other:
             "45923506432956493562935693478346" "\r\n" // F
             "46329469461254954325945934569378" "\r\n" // Y
-            "63F49D96BDBA28F8428B4A5008D1A587";       // X
 
         const unsigned char BlockListSig0[64] =  {
             0x95, 0x75, 0xbb, 0x29, 0x7d, 0x57, 0x44, 0x20,
